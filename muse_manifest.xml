@@ -1,0 +1,38 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="kiz11-1.pp.ua" resolutions="1x" timestamp="1466692358664">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_______-_1.css" crc="4053194863" ref="maps"/>
+    <file name="master_______-_.css" crc="343154319" ref="call:items:list:news"/>
+    <file name="master_______-a.css" crc="3791003696" ref="index:rozklad3:rozklad2"/>
+    <file name="index.css" crc="4237308772" ref="index"/>
+    <file name="call.css" crc="301408070" ref="call"/>
+    <file name="items.css" crc="484520721" ref="items"/>
+    <file name="list.css" crc="3935788812" ref="list"/>
+    <file name="news.css" crc="3969976719" ref="news"/>
+    <file name="rozklad3.css" crc="287105195" ref="rozklad3"/>
+    <file name="rozklad2.css" crc="3861659351" ref="rozklad2"/>
+    <file name="maps.css" crc="4032336733" ref="maps"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:rozklad2:rozklad3:news:list:items:call:maps"/>
+    <file name="museutils.js" crc="3790713428" ref="index:rozklad2:rozklad3:news:list:items:call:maps"/>
+    <file name="whatinput.js" crc="84559013" ref="index:rozklad2:rozklad3:news:list:items:call:maps"/>
+    <file name="pie.js" crc="3827607177" ref="index:news:maps"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:rozklad2:rozklad3:news:list:items:call:maps"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:rozklad2:rozklad3:news:list:items:call:maps"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="302092753" ref="index"/>
+    <file name="icon.png" crc="186290544" seo="true" ref="index:rozklad2:rozklad3:news:list:items:call:maps"/>
+    <file name="vkontakte_01b.png" crc="10323269" seo="true" ref="index:rozklad2:rozklad3:news:list:items:call:maps"/>
+    <file name="bg.jpg" crc="54747097" ref="index:rozklad2:rozklad3:news:list:items:call:maps"/>
+  </folder>
+  <file name="index.html" crc="10089500" seo="true" mt="1450084560366" redirect="true"/>
+  <file name="rozklad2.html" crc="3796674878" seo="true" mt="1450084560366" redirect="true"/>
+  <file name="rozklad3.html" crc="3761403568" seo="true" mt="1450084560366" redirect="true"/>
+  <file name="news.html" crc="3908434458" seo="true" mt="1449596025523" redirect="true"/>
+  <file name="list.html" crc="3810207203" seo="true" mt="1449596025523" redirect="true"/>
+  <file name="items.html" crc="483808248" seo="true" mt="1449596025523" redirect="true"/>
+  <file name="call.html" crc="164238196" seo="true" mt="1449596025523" redirect="true"/>
+  <file name="maps.html" crc="4133892478" seo="true" mt="1449596076012" redirect="true"/>
+</manifest>
